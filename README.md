@@ -3,8 +3,7 @@
 
 <h3 align="center">
   Welcome to Ahmed Z. Beltagy's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
