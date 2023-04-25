@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior ML/DL%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7ef75c&vCenter=true&size=25"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=00F734&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+ML%2FDL+Engineer;Always+Learning+New+Things!" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a ML Engineer and also a Data Scientist
